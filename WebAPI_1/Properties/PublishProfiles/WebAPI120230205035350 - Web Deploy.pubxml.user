@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAPiH8A352jkqIOLFQJw6iwQAAAAACAAAAAAAQZgAAAAEAACAAAAAh/yJ7HbeOLhSI8CDeoGHE4jXhIxNhfIxYG7WeT1Jk+gAAAAAOgAAAAAIAACAAAACnLUx9qzkMVqaV19dsOqgPsZC7wrrPw0nJ69T2RfGe0YAAAAD0fPhP/0aa6DKq7Fl5vkBO0lrzn0j+4N2queUy6KZZEyKfbOY1upQj7v/qh27zEFjYU+h9TpoWu78F7YggSnp/UvKUGGff7+ufqCLkgxbubnHrvQrresEhzPc7V0eA1fyHCxSIzVUfgpHZltRf/WRJ1MkaOWM1t/FAV4ZxKWpKh0AAAAA966ENmqCmeTm50oLPO/aKTUEGeA8Joe5Np8amzURRW0+CL8hjeK6aJlfsY/xItFfmCsFswRLfrByjW/5dSyZc</EncryptedPassword>
+    <History>False|2023-02-05T02:03:32.5021656Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebAPI_1.Data.ApplicationDBContext">
+      <Value>Server=.%3bDatabase=First_Api%3bIntegrated Security=True%3bTrustServerCertificate=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
