@@ -1,2 +1,2 @@
-# MoviesAPI Using(.NETCoreAPIs and SQl Server)
+# MoviesAPI (.NETCoreAPIs and SQl Server)
 Simple Movies Display API 
